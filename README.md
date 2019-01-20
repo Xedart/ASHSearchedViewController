@@ -56,7 +56,7 @@ pod 'ASHSearchedViewController'
 
 ## Customization
 
-ASHSearchedViewController provdes a handfull of methods to override in order to customize appearance:
+ASHSearchedViewController provides a handful of methods to override in order to customize appearance:
 
 ```Swift
 ///Override to provide your custom color for the search button.
